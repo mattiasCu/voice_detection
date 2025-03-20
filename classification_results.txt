@@ -1,0 +1,1 @@
+Filename, Fake Probability, Real Probability, gt, wavegrad, diffwave, parallel wave gan, wavernn, wavenet, melgan
